@@ -20,12 +20,12 @@ public class ValidParentheses {
             }
         }
         return stack.isEmpty();
-
     }
     public static void main(String[] args) {
         ValidParentheses p = new ValidParentheses();
         System.out.println(p.isValid("()[]{}"));
         System.out.println(p.isValid("([)]"));
         System.out.println(p.isValid("([)]"));
+
     }
 }
