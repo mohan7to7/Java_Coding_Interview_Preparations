@@ -19,6 +19,6 @@ public class BinarySearch_New {
             }
         }
 
-        System.out.println("Target found at index: " + resultIndex);
+        System.out.println(" Target found at index :  " + resultIndex);
     }
 }
