@@ -34,25 +34,36 @@ Pattern: Sliding window
 11. 
 Longest Substring Without Repeating Characters
 Pattern: Sliding window + Set
+12.
 Longest Repeating Character Replacement
 Pattern: Sliding window
+13. 
 Minimum Window Substring
 Pattern: Advanced sliding window
-Stack
-Valid Parentheses
+
+**Stack**
+14. Valid Parentheses
 Pattern: Stack
+15. 
 Min Stack
 Pattern: Design + Stack
+16. 
 Daily Temperatures
 Pattern: Monotonic stack
-Binary Search
-Binary Search
+
+**Binary Search**
+
+17. Binary Search
 Pattern: Core binary search
+18. 
 Search in Rotated Sorted Array
 Pattern: Modified binary search
+19. 
 Find Minimum in Rotated Sorted Array
 Pattern: Binary search
-Linked List
+
+**Linked List**
+
 Reverse Linked List
 Pattern: Pointer manipulation
 Merge Two Sorted Lists
