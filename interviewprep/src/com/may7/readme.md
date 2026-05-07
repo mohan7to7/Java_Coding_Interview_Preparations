@@ -1,27 +1,37 @@
 This package contains 27 programs that are commonly asked in coding interviews.
 **Arrays & Hashing**
-Two Sum
-Pattern: HashMap
+1. Two Sum
+    Pattern: HashMap
+2. 
 Contains Duplicate
 Pattern: HashSet
+3. 
 Valid Anagram
 Pattern: Frequency counting
+4.
 Group Anagrams
 Pattern: HashMap + String sorting
+5.
 Top K Frequent Elements
 Pattern: Heap / Bucket Sort
+6. 
 Product of Array Except Self
 Pattern: Prefix & Suffix arrays
-Two Pointers
-Valid Palindrome
+
+**Two Pointers**
+7. Valid Palindrome
 Pattern: Two pointers
+8. 
 3Sum
 Pattern: Sorting + Two pointers
+9. 
 Container With Most Water
 Pattern: Greedy + Two pointers
-Sliding Window
-Best Time to Buy and Sell Stock
+
+**Sliding Window**
+10. Best Time to Buy and Sell Stock
 Pattern: Sliding window
+11. 
 Longest Substring Without Repeating Characters
 Pattern: Sliding window + Set
 Longest Repeating Character Replacement
