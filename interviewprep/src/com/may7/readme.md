@@ -89,3 +89,23 @@ Pattern: DFS/BFS graph traversal
 **Dynamic Programming**
 27. Climbing Stairs
 Pattern: Fibonacci DP
+
+**Most Important Problems (Must Master First)**
+
+If you want the highest ROI for interviews, prioritize these first:
+
+Two Sum
+Valid Parentheses
+Longest Substring Without Repeating Characters
+Product of Array Except Self
+Binary Search
+Reverse Linked List
+Merge Two Sorted Lists
+Binary Tree Level Order Traversal
+Validate BST
+Number of Islands
+Course Schedule
+Coin Change
+LRU Cache
+Word Search
+Median of Two Sorted Arrays
