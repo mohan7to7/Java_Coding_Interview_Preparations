@@ -64,21 +64,28 @@ Pattern: Binary search
 
 **Linked List**
 
-Reverse Linked List
+20. Reverse Linked List
 Pattern: Pointer manipulation
+21. 
 Merge Two Sorted Lists
 Pattern: Linked list merge
+22.
 Linked List Cycle
 Pattern: Fast & slow pointers
-Trees & Graphs
-Maximum Depth of Binary Tree
+
+**Trees & Graphs**
+23. Maximum Depth of Binary Tree
 Pattern: DFS recursion
+24. 
 Binary Tree Level Order Traversal
 Pattern: BFS queue
+25. 
 Validate Binary Search Tree
 Pattern: DFS + bounds checking
+26. 
 Number of Islands
 Pattern: DFS/BFS graph traversal
-Dynamic Programming
-Climbing Stairs
+
+**Dynamic Programming**
+27. Climbing Stairs
 Pattern: Fibonacci DP
